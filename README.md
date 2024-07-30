@@ -1,5 +1,5 @@
 # recsys23-tutorial
-Welcome to the page of our tutorial on Recommendender systems in the Wild. 
+Welcome to the page of our acm [recsys2023](https://recsys.acm.org/recsys23) tutorial on Recommendender systems in the Wild. 
 
 # Abstract
 Building a recommender system, from the initial idea, implementation, and offline evaluation to running a system where users will receive quality recommendations, is a long process with many practical considerations. A recommender model that produces close to state-of-the-art metrics in an offline evaluation is only a small step in creating a recommender system and often not the most important. This gap between training a recommender model and having a recommender system in production is a topic often neglected and will be the focus of this tutorial.
