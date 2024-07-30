@@ -23,8 +23,8 @@ Part 2:
 * Handling recommenders in production
 
 Slides:
-* part 1: [link](https://www.dropbox.com/scl/fi/2a3zlqetpb5tujcw6173a/kim-falk-at-recsys23.pdf?rlkey=hp7gbz3vdt8jvu689uxddui9v&st=wlesix4m&dl=0)
-* part 2: [link](https://github.com/Arngren/bayesian-ab-test/blob/main/pdf/Tutorial%20-%20Bayesian%20AB-testing.pdf) (have a look at Mortens Bayesian A/B-testing repo [link](https://github.com/Arngren/bayesian-ab-test/tree/main))
+* part 1: [link](https://github.com/recs-in-the-wild/recsys23-tutorial/blob/main/pdf/kim%20falk%20at%20recsys23.pdf)
+* part 2: [link](https://github.com/Arngren/bayesian-ab-test/blob/main/pdf/Tutorial%20-%20Bayesian%20AB-testing.pdf) (Also have a look at Mortens Bayesian A/B-testing repo [link](https://github.com/Arngren/bayesian-ab-test/tree/main))
 
 Link to a video of the presentation will be added as soon as it is available. 
 
